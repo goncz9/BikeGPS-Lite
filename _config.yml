@@ -1,0 +1,17 @@
+# Site settings
+title: Bike GPS Lite
+email: bikegpslite@goncz.app
+author: Robert Göncz
+description:
+url: https://bikegpslite.goncz.app
+
+# Build settings
+permalink: :title/
+sass:
+  sass_dir: css
+
+exclude:
+  - README.md
+  - CNAME
+
+appstoreid: 1450105816
